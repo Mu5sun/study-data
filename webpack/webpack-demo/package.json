@@ -2,9 +2,9 @@
   "name": "webpack-demo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "bundle": "webpack"
   },
   "author": "",
   "license": "ISC",
